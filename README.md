@@ -33,4 +33,5 @@ Text Classification is the task of assigning a label or class to a given text. S
 |glove-bilstm	        |0.798464	  |0.651017	|0.717241	|0.764604	|0.6743973839814837	|1.0 |
 
 **Bar Chart:**
-<img width="120" alt="image" src="https://github.com/khushi-m27/Comparison-for-Text-Classification-pre-trained-models-through-Topsis/blob/main/BarChart.png">
+
+![Bar Chart]([path/to/image.png](https://github.com/khushi-m27/Comparison-for-Text-Classification-pre-trained-models-through-Topsis/blob/main/BarChart.png))
