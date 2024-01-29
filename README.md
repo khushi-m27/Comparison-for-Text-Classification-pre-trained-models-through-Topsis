@@ -34,4 +34,4 @@ Text Classification is the task of assigning a label or class to a given text. S
 
 **Bar Chart:**
 
-![Bar Chart]([path/to/image.png](https://github.com/khushi-m27/Comparison-for-Text-Classification-pre-trained-models-through-Topsis/blob/main/BarChart.png))
+![Bar Chart](https://github.com/khushi-m27/Comparison-for-Text-Classification-pre-trained-models-through-Topsis/blob/main/BarChart.png)
